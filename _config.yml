@@ -16,7 +16,7 @@
 title: Short Stories
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-    A collection of short interesting stories.
+    A collection of short and interesting stories.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: personne
@@ -24,6 +24,10 @@ github_username:  activoc
 repository: activoc/activoc.github.io
 github: [metadata]
 show_downloads: false
+#languages: ["en", "ru", "fr"]
+#default_lang: "en"
+#exclude_from_localization: ["javascript", "images", "css"]
+#parallel_localization: true
 
 # Build settings
 markdown: kramdown
