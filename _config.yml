@@ -28,6 +28,7 @@ show_downloads: false
 #default_lang: "en"
 #exclude_from_localization: ["javascript", "images", "css"]
 #parallel_localization: true
+google_analytics: UA-116915087-1
 
 # Build settings
 markdown: kramdown
